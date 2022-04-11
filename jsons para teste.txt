@@ -1,0 +1,34 @@
+Aluno (/alunos)
+
+{
+
+    "nome" : "Camila",
+    "cpf": "222-222-222-22",
+	"dataDeNascimento" : "28/05/1990",
+    "bairro": "Central"
+    
+
+}
+
+
+Avaliação física (avaliacoes)
+
+
+{
+
+    "alunoId" : 1,
+    "peso": 200.0,
+    "altura": 1.75
+    
+
+}
+
+{
+
+    "alunoId" : 1,
+    "peso": 64.0,
+    "altura": 1.71
+    
+
+}
+
